@@ -1,0 +1,14 @@
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.deps.json
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.runtimeconfig.json
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.dll
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.pdb
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.AssemblyInfo.cs
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.dll
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/refint/HelloWorldApp.dll
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.pdb
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.genruntimeconfig.cache
+/Users/chiragpurohit/Desktop/Azure/SimpleDotnetApp/HelloWorldApp/obj/Debug/net9.0/ref/HelloWorldApp.dll
